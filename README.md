@@ -16,3 +16,5 @@ Open the MilightControl.exe and click on the settings button and type the IP of 
 It should work now fine if you have any problems please make a issue
 
 Controling the lights credits goes to Mwittig for creating the milight NPM module
+
+The install button on the settings panel does not work im currently working on it
