@@ -9,7 +9,7 @@ Place the "milight" folder in your downloads folder
 Download and install Node JS
 https://nodejs.org/en/
 
-Type in CMD "npm i node-milight-promise"
+Type in CMD "npm i node-milight-promise color"
 
 Open the MilightControl.exe and click on the settings button and type the IP of your iBox in the textbox and click on send
 
